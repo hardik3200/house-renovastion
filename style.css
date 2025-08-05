@@ -834,6 +834,9 @@ button.owl-next {
     width: 100%;
     text-align: center;
 }
+.header-image {
+    line-height: 1px;
+}
 .pick-top {
     margin-top: 35px;
 }
@@ -1417,6 +1420,16 @@ nav ul li a {
 .top{
 	justify-content: space-between;
 	display: flex;
+	width: 100%;
+}
+.header {
+    
+    display: flex;
+    align-items: center;
+    justify-content: end;
+}
+.header-1{
+	margin-right: 0px;
 }
 }
 /*responsive style end*/
